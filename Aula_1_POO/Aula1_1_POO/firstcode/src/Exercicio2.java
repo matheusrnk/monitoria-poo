@@ -13,7 +13,7 @@ public class Exercicio2 {
             nomes[i] = leitor.nextLine(); /** Estrutura de repetição "for" para ler as strings do teclado */
         }
         for(int i=0; i<3; i++){
-            idades[i] = leitor.nextInt(); /** Estrutura de repetição "for" para ler os inteiros do teclado */
+            idades[i] = Integer.parseInt(leitor.nextLine()); /** Estrutura de repetição "for" para ler os inteiros do teclado */
         }
 
         for(int i=0; i<3; i++){
