@@ -2,7 +2,7 @@
 
 ### Aulas Práticas
 
-- <a href="https://github.com/matheusrnk/monitoria-poo/tree/main/Aula_1_POO"> Aula Prática 1 - Familiarização com a linguagem Java</a>
+- <a href="https://github.com/matheusrnk/monitoria-poo/tree/main/Aulas%20Pr%C3%A1ticas/Aula%20Pr%C3%A1tica%201%20-%20Familiariza%C3%A7%C3%A3o%20com%20a%20linguagem%20Java"> Aula Prática 1 - Familiarização com a linguagem Java</a>
 - Aula Prática 2
 - Aula Prática 3
 - Aula Prática 4
